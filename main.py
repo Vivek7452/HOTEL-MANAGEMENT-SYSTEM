@@ -16,7 +16,7 @@ Joint_Room = (46, 47, 48, 49, 50, 46, 47, 48, 49, 50)
 m = [9]
 G = []
 
-
+//hii i am here
 def chk_name():
     while True:
         print("\n")
